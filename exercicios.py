@@ -77,3 +77,15 @@ num2 = 3  # Exemplo de entrada
 resultado_divisao_inteira = num1 // num2
 print("O resultado da divisão inteira é:", resultado_divisao_inteira)
 
+#Exercício 5: Quadrado de um Número
+# num = int(input("Digite um número: "))
+num = 6  # Exemplo de entrada
+resultado_quadrado = num ** 2
+print("O quadrado do número é:", resultado_quadrado)
+
+
+
+
+
+
+
