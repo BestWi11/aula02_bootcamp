@@ -102,7 +102,13 @@ media = (num1 + num2) / 2
 print("A média é:", media)
 
 
-
+#Exercício 8: Potência de um Número
+# base = float(input("Digite a base: "))
+# expoente = float(input("Digite o expoente: "))
+base = 2.0  # Exemplo de entrada
+expoente = 3.0  # Exemplo de entrada
+potencia = base ** expoente
+print("O resultado da potência é:", potencia)
 
 
 
