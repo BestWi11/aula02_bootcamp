@@ -93,4 +93,16 @@ resultado_soma = num1 + num2
 print("A soma é:", resultado_soma)
 
 
+#Exercício 7: Média de Dois Números Flutuantes
+# num1 = float(input("Digite o primeiro número flutuante: "))
+# num2 = float(input("Digite o segundo número flutuante: "))
+num1 = 3.5  # Exemplo de entrada
+num2 = 7.5  # Exemplo de entrada
+media = (num1 + num2) / 2
+print("A média é:", media)
+
+
+
+
+
 
