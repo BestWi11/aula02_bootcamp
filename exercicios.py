@@ -52,3 +52,12 @@ num2 = 12  # Exemplo de entrada
 resultado_soma = num1 + num2
 print("A soma é:", resultado_soma)
 
+
+#Exercício 2: Resto da Divisão por 5
+# num = int(input("Digite um número: "))
+num = 18  # Exemplo de entrada
+resultado_resto = num % 5
+print("O resto da divisão por 5 é:", resultado_resto)
+
+
+
