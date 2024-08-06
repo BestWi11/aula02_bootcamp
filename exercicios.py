@@ -84,8 +84,13 @@ resultado_quadrado = num ** 2
 print("O quadrado do número é:", resultado_quadrado)
 
 
-
-
+#Exercício 6: Adição de Dois Números Flutuantes
+# num1 = float(input("Digite o primeiro número flutuante: "))
+# num2 = float(input("Digite o segundo número flutuante: "))
+num1 = 2.5  # Exemplo de entrada
+num2 = 4.5  # Exemplo de entrada
+resultado_soma = num1 + num2
+print("A soma é:", resultado_soma)
 
 
 
