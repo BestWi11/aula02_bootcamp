@@ -69,6 +69,11 @@ resultado_multiplicacao = num1 * num2
 print("O resultado da multiplicação é:", resultado_multiplicacao)
 
 
-
-
+#Exercício 4: Divisão Inteira do Primeiro pelo Segundo Número
+# num1 = int(input("Digite o primeiro número inteiro: "))
+# num2 = int(input("Digite o segundo número inteiro: "))
+num1 = 20  # Exemplo de entrada
+num2 = 3  # Exemplo de entrada
+resultado_divisao_inteira = num1 // num2
+print("O resultado da divisão inteira é:", resultado_divisao_inteira)
 
